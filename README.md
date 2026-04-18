@@ -26,3 +26,9 @@ How to Play:
 
 Author: (Taha Hamrah)
 Date: (May, 2025)
+
+How to run this program Enter this to terminal: 
+
+g++ main.cpp -o tictactoe
+then:
+./tictactoe

@@ -1,7 +1,6 @@
 
-=====================================================
+
                 TIC-TAC-TOE GAME
-=====================================================
 
 Description:
 This program is a simple 2-player Tic-Tac-Toe game
@@ -30,5 +29,7 @@ Date: (May, 2025)
 How to run this program Enter this to terminal: 
 
 g++ main.cpp -o tictactoe
+
 then:
+
 ./tictactoe
